@@ -1,9 +1,8 @@
 """
 Project Name: Cyber Security Aura - Sci-Fi Shield Shield & Orbiting Ring
-Author: Ryzlajy
 Description: Menggabungkan MediaPipe dan PyOpenGL. 
              - Gestur 1 Jari -> Emoji Tersenyum (Cyan)
-             - Gestur Terbuka -> Perisai Modern Murni & Lingkaran Berputar (Hijau) + "SYSTEM SAFE"
+             - Gestur Terbuka -> Perisai & Lingkaran Berputar (Hijau) + "SYSTEM SAFE"
              - Gestur Mengepal -> Gembok & Teks "ALERT" (Merah)
              - Tidak Ada Tangan -> Kabut Abstrak (Biru)
 """
